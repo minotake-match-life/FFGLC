@@ -1,1 +1,44 @@
 # FFGLC
+This repository provides the project page and dataset links for the paper:
+
+**Fine-Grained Fashion Feature Embedding for Global, Local, and Contextual Analysis in Fashion Social Media Popularity Prediction**  
+Shun Okamoto, Satoshi Iizuka, and Kazuhiro Fukui  
+IEEE Access, 2026.
+
+Paper link: coming soon
+
+# WEAR-PD
+
+WEAR-PD is a fashion social media popularity prediction dataset constructed from [WEAR]: <https://wear.jp/>, a Japanese fashion coordination platform.
+
+The dataset contains fashion posts with multimodal information, including image URLs, posting dates, hashtags, item tag counts, descriptions, comment status, popularity scores, anonymized user indices, official status, post counts, following counts, and follower counts. WEAR-PD covers 313,532 posts from 17,187 users, collected from December 2012 to May 2024.
+
+Hugging Face Dataset: coming soon
+
+## Dataset Release Policy
+
+We do not redistribute raw WEAR images. Instead, the released dataset provides image URLs for reproducibility.
+
+Original user IDs are not included. They are replaced with internal anonymized user indices. 
+The release includes metadata, textual contents, and generated captions.
+
+Users are responsible for complying with the terms of the original platform. 
+The dataset must not be used for re-identification, user profiling, commercial targeting, redistribution of raw images, or any use that may harm the privacy or rights of the original users.
+
+## SMPD-Fashion
+
+SMPD-Fashion is constructed from the Social Media Popularity Dataset, SMPD.
+
+We do not redistribute SMPD-Fashion because it is derived from the original SMPD dataset. To reproduce SMPD-Fashion, please download the original SMPD dataset from the official SMP Challenge website:
+
+https://smp-challenge.com/download_image.html
+
+After downloading SMPD, extract the samples whose category is `Fashion`.
+
+
+## Citation
+
+If you find this work useful, please consider citing the following paper:
+
+```bibtex
+coming soon
