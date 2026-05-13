@@ -9,7 +9,7 @@ WEAR-PD is a fashion social media popularity prediction dataset constructed from
 
 The dataset contains fashion posts with multimodal information, including image URLs, posting dates, hashtags, item tag counts, descriptions, comment status, popularity scores, anonymized user indices, official status, post counts, following counts, and follower counts. WEAR-PD covers 313,532 posts from 17,187 users, collected from December 2012 to May 2024. Additional details are listed in the supplementary material.
 
-Hugging Face Dataset: coming soon
+Hugging Face Dataset: https://huggingface.co/datasets/iampom/WEAR-PD
 
 ## Dataset Release Policy
 
