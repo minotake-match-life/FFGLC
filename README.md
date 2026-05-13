@@ -24,9 +24,9 @@ The dataset must not be used for re-identification, user profiling, commercial t
 ## SMPD-Fashion
 
 SMPD-Fashion is constructed from the [Social Media Popularity Dataset](https://smp-challenge.com/download_image.html).
-
 We do not redistribute SMPD-Fashion because it is derived from the original SMPD dataset. 
 To reproduce SMPD-Fashion, please download the original SMPD dataset from the official SMP Challenge website.
+
 After downloading SMPD, extract the samples whose `Category == Fashion`. 
 Additional details are listed in sec.IV.A. in the main paper.
 
