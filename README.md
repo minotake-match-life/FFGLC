@@ -1,5 +1,5 @@
 # Fine-Grained Fashion Feature Embedding for Global, Local, and Contextual Analysis in Fashion Social Media Popularity Prediction
-This repository provides the project page and dataset links for the paper ''Fine-Grained Fashion Feature Embedding for Global, Local, and Contextual Analysis in Fashion Social Media Popularity Prediction`` (IEEE Access, 2026).
+This repository provides the project page and dataset links for the paper "Fine-Grained Fashion Feature Embedding for Global, Local, and Contextual Analysis in Fashion Social Media Popularity Prediction" (IEEE Access 2026).
 
 Paper link: coming soon
 
@@ -7,7 +7,7 @@ Paper link: coming soon
 
 WEAR-PD is a fashion social media popularity prediction dataset constructed from [WEAR](https://wear.jp/), a Japanese fashion coordination platform.
 
-The dataset contains fashion posts with multimodal information, including image URLs, posting dates, hashtags, item tag counts, descriptions, comment status, popularity scores, anonymized user indices, official status, post counts, following counts, and follower counts. WEAR-PD covers 313,532 posts from 17,187 users, collected from December 2012 to May 2024.
+The dataset contains fashion posts with multimodal information, including image URLs, posting dates, hashtags, item tag counts, descriptions, comment status, popularity scores, anonymized user indices, official status, post counts, following counts, and follower counts. WEAR-PD covers 313,532 posts from 17,187 users, collected from December 2012 to May 2024. Additional details are listed in the supplementary material.
 
 Hugging Face Dataset: coming soon
 
@@ -27,7 +27,8 @@ SMPD-Fashion is constructed from the [Social Media Popularity Dataset](https://s
 
 We do not redistribute SMPD-Fashion because it is derived from the original SMPD dataset. 
 To reproduce SMPD-Fashion, please download the original SMPD dataset from the official SMP Challenge website.
-After downloading SMPD, extract the samples whose category is `Fashion`.
+After downloading SMPD, extract the samples whose `Category == Fashion`. 
+Additional details are listed in sec.IV.A. in the main paper.
 
 ## Citation
 
