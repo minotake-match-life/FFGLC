@@ -32,7 +32,7 @@ Additional details are listed in sec.IV.A. in the main paper.
 
 ## Citation
 
-If you find this work useful, please consider citing the following paper（Early Access）:
+If you find this work useful, please consider citing the following paper:
 
 ```bibtex
 @ARTICLE{FFGLC2026,
