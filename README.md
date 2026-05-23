@@ -1,7 +1,7 @@
 # Fine-Grained Fashion Feature Embedding for Global, Local, and Contextual Analysis in Fashion Social Media Popularity Prediction
 This repository provides the project page and dataset links for the paper "Fine-Grained Fashion Feature Embedding for Global, Local, and Contextual Analysis in Fashion Social Media Popularity Prediction" (IEEE Access 2026).
 
-Paper link（Early Access）: https://ieeexplore.ieee.org/document/11522804
+Paper link: https://ieeexplore.ieee.org/document/11522804
 
 # WEAR-PD
 
@@ -35,13 +35,15 @@ Additional details are listed in sec.IV.A. in the main paper.
 If you find this work useful, please consider citing the following paper（Early Access）:
 
 ```bibtex
-@ARTICLE{11522804,
+@ARTICLE{FFGLC2026,
   author={Okamoto, Shun and Iizuka, Satoshi and Fukui, Kazuhiro},
   journal={IEEE Access}, 
   title={Fine-Grained Fashion Feature Embedding for Global, Local, and Contextual Analysis in Fashion Social Media Popularity Prediction}, 
   year={2026},
-  volume={},
+  volume={14},
   number={},
-  pages={},
-  doi={10.1109/ACCESS.2026.3694039}}
+  pages={75674-75689},
+  doi={10.1109/ACCESS.2026.3694039}
+}
+
 
